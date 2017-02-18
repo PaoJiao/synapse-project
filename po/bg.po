@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: synapse-project\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-11-30 14:48+0000\n"
-"PO-Revision-Date: 2011-09-24 10:05+0000\n"
-"Last-Translator: Viktor Reseleshki <Unknown>\n"
+"POT-Creation-Date: 2016-10-06 09:37+0000\n"
+"PO-Revision-Date: 2016-07-07 22:19+0000\n"
+"Last-Translator: Kostenlos <kokoda@abv.bg>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2015-12-01 05:19+0000\n"
-"X-Generator: Launchpad (build 17850)\n"
+"X-Launchpad-Export-Date: 2016-10-07 05:56+0000\n"
+"X-Generator: Launchpad (build 18217)\n"
 
 #: ../data/synapse.desktop.in.h:1
 msgid "Synapse"
@@ -27,259 +27,259 @@ msgid "Search everything you do."
 msgstr "Търсете всичко, от което се нуждаете."
 
 #. activate has to stay in first position!
-#: ../src/ui/synapse-main.vala:106 ../src/ui/settings.vala:240
+#: ../src/ui/synapse-main.vala:102 ../src/ui/settings.vala:237
 msgid "Activate"
 msgstr "Активирай"
 
 #. Whooot?! This cannot be true!
-#: ../src/ui/category.vala:31 ../src/ui/category.vala:71
-#: ../src/ui/category.vala:135
+#: ../src/ui/category.vala:29 ../src/ui/category.vala:69
+#: ../src/ui/category.vala:133
 msgid "All"
 msgstr "Всичко"
 
-#: ../src/ui/category.vala:68 ../src/ui/category.vala:112
+#: ../src/ui/category.vala:66 ../src/ui/category.vala:110
 msgid "Actions"
 msgstr "Действия"
 
-#: ../src/ui/category.vala:69 ../src/ui/category.vala:114
+#: ../src/ui/category.vala:67 ../src/ui/category.vala:112
 msgid "Audio"
 msgstr "Аудио"
 
-#: ../src/ui/category.vala:70 ../src/ui/category.vala:115
+#: ../src/ui/category.vala:68 ../src/ui/category.vala:113
 msgid "Applications"
 msgstr "Приложения"
 
-#: ../src/ui/category.vala:72 ../src/ui/category.vala:113
+#: ../src/ui/category.vala:70 ../src/ui/category.vala:111
 msgid "Places"
 msgstr "Места"
 
-#: ../src/ui/category.vala:73 ../src/ui/category.vala:116
+#: ../src/ui/category.vala:71 ../src/ui/category.vala:114
 msgid "Documents"
 msgstr "Документи"
 
-#: ../src/ui/category.vala:74 ../src/ui/category.vala:117
+#: ../src/ui/category.vala:72 ../src/ui/category.vala:115
 msgid "Images"
 msgstr "Изображения"
 
-#: ../src/ui/category.vala:75 ../src/ui/category.vala:118
+#: ../src/ui/category.vala:73 ../src/ui/category.vala:116
 msgid "Video"
 msgstr "Видео"
 
-#: ../src/ui/category.vala:76
+#: ../src/ui/category.vala:74
 msgid "Contacts"
-msgstr ""
+msgstr "Контакти"
 
-#: ../src/ui/category.vala:77 ../src/ui/category.vala:119
+#: ../src/ui/category.vala:75 ../src/ui/category.vala:117
 msgid "Internet"
 msgstr "Интернет"
 
 #. _labels.set (QueryFlags.ALL, _("All")); // Do not remove!
-#: ../src/ui/category.vala:111
+#: ../src/ui/category.vala:109
 msgid "Include remote content"
 msgstr "Включване на отдалечено съдържание"
 
 #. _labels.set (QueryFlags.FILES, _("Files"));
-#: ../src/ui/category.vala:121
+#: ../src/ui/category.vala:119
 msgid "Uncategorized"
 msgstr "Без категория"
 
-#: ../src/ui/controller.vala:30
+#: ../src/ui/controller.vala:28
 msgid "Searching..."
 msgstr "Търсене..."
 
-#: ../src/ui/controller.vala:31
+#: ../src/ui/controller.vala:29
 msgid "No results found."
 msgstr "Не са открити резултати."
 
-#: ../src/ui/controller.vala:32
+#: ../src/ui/controller.vala:30
 msgid "No recent activities found."
 msgstr "Не са намерени скорошни дейности"
 
-#: ../src/ui/controller.vala:33
+#: ../src/ui/controller.vala:31
 msgid "Type to search..."
 msgstr "Пишете, за да търсите..."
 
-#: ../src/ui/controller.vala:542
+#: ../src/ui/controller.vala:548
 msgid "...or press down key to browse recent activities"
 msgstr ""
 "...или натиснете стрелката надолу за да видите скорошно изпълнявани действия"
 
-#: ../src/ui/view-virgilio.vala:208 ../src/ui/widgets-matchlistview.vala:948
+#: ../src/ui/view-virgilio.vala:199 ../src/ui/widgets-matchlistview.vala:938
 #, c-format
 msgid "<b>%d of %d</b>"
 msgstr "<b>%d от %d</b>"
 
-#: ../src/ui/settings.vala:48
+#: ../src/ui/settings.vala:45
 msgid "Status"
 msgstr "Състояние"
 
-#: ../src/ui/settings.vala:50
+#: ../src/ui/settings.vala:47
 msgid "Enable this plugin"
 msgstr "Разреши тази приставка"
 
-#: ../src/ui/settings.vala:51
+#: ../src/ui/settings.vala:48
 msgid "Disable this plugin"
 msgstr "Забрани тази приставка"
 
-#: ../src/ui/settings.vala:57
+#: ../src/ui/settings.vala:54
 msgid "About this plugin"
 msgstr "Относно тази приставка"
 
-#: ../src/ui/settings.vala:71 ../src/ui/settings.vala:207
+#: ../src/ui/settings.vala:68 ../src/ui/settings.vala:204
 msgid "Configure plugin"
 msgstr "Настройка на приставката"
 
-#: ../src/ui/settings.vala:86 ../src/ui/settings.vala:455
+#: ../src/ui/settings.vala:83 ../src/ui/settings.vala:452
 msgid "Disabled"
 msgstr "Забранена"
 
-#: ../src/ui/settings.vala:90
+#: ../src/ui/settings.vala:87
 msgid "Enabled"
 msgstr "Разрешена"
 
-#: ../src/ui/settings.vala:144
+#: ../src/ui/settings.vala:141
 msgid "Synapse - Settings"
 msgstr "Synapse - Настройки"
 
-#: ../src/ui/settings.vala:169
+#: ../src/ui/settings.vala:166
 msgid "Default"
 msgstr "Стандартна"
 
-#: ../src/ui/settings.vala:170
+#: ../src/ui/settings.vala:167
 msgid "Essential"
 msgstr ""
 
-#: ../src/ui/settings.vala:171
+#: ../src/ui/settings.vala:168
 msgid "Doish"
 msgstr ""
 
-#: ../src/ui/settings.vala:172
+#: ../src/ui/settings.vala:169
 msgid "Side Doish"
 msgstr ""
 
-#: ../src/ui/settings.vala:173
+#: ../src/ui/settings.vala:170
 msgid "Virgilio"
 msgstr ""
 
-#: ../src/ui/settings.vala:241
+#: ../src/ui/settings.vala:238
 msgid "Execute"
 msgstr "Изпълнение"
 
-#: ../src/ui/settings.vala:242
+#: ../src/ui/settings.vala:239
 msgid "Execute without hiding"
 msgstr "Изпълнение без скриване"
 
-#: ../src/ui/settings.vala:243
+#: ../src/ui/settings.vala:240
 msgid "Alternative Delete"
 msgstr "Алтернативно изтриване"
 
-#: ../src/ui/settings.vala:244
+#: ../src/ui/settings.vala:241
 msgid "Next Result"
 msgstr "Следващ резултат"
 
-#: ../src/ui/settings.vala:245
+#: ../src/ui/settings.vala:242
 msgid "Previous Result"
 msgstr "Предишен резултат"
 
-#: ../src/ui/settings.vala:246
+#: ../src/ui/settings.vala:243
 msgid "First Result"
 msgstr "Първи резултат"
 
-#: ../src/ui/settings.vala:247
+#: ../src/ui/settings.vala:244
 msgid "Last Result"
 msgstr "Последен резултат"
 
-#: ../src/ui/settings.vala:248
+#: ../src/ui/settings.vala:245
 msgid "Next 5 Results"
 msgstr "Следващи 5 резултата"
 
-#: ../src/ui/settings.vala:249
+#: ../src/ui/settings.vala:246
 msgid "Previous 5 Results"
 msgstr "Предишни 5 резултата"
 
-#: ../src/ui/settings.vala:250
+#: ../src/ui/settings.vala:247
 msgid "Next Category"
 msgstr "Следваща категория"
 
-#: ../src/ui/settings.vala:251
+#: ../src/ui/settings.vala:248
 msgid "Previous Category"
 msgstr "Предишна категория"
 
-#: ../src/ui/settings.vala:252
+#: ../src/ui/settings.vala:249
 msgid "Next Pane"
 msgstr "Следващ панел"
 
-#: ../src/ui/settings.vala:253
+#: ../src/ui/settings.vala:250
 msgid "Previous Pane"
 msgstr "Предишен панел"
 
-#: ../src/ui/settings.vala:254
+#: ../src/ui/settings.vala:251
 msgid "Paste"
 msgstr "Поставяне"
 
-#: ../src/ui/settings.vala:255
+#: ../src/ui/settings.vala:252
 msgid "Paste current selection"
 msgstr ""
 
-#: ../src/ui/settings.vala:256
+#: ../src/ui/settings.vala:253
 #: ../src/plugins/xnoise-media-player-plugin.vala:94
 msgid "Quit"
 msgstr "Изход"
 
-#: ../src/ui/settings.vala:270
+#: ../src/ui/settings.vala:267
 msgid "Shortcut already in use"
 msgstr "Клавишната комбинация вече се използва"
 
-#: ../src/ui/settings.vala:296
+#: ../src/ui/settings.vala:293
 msgid "General"
 msgstr "Основни"
 
-#: ../src/ui/settings.vala:297
+#: ../src/ui/settings.vala:294
 msgid "Plugins"
 msgstr "Приставки"
 
-#: ../src/ui/settings.vala:303
+#: ../src/ui/settings.vala:300
 msgid "Behavior & Look"
 msgstr "Поведение и вид"
 
-#: ../src/ui/settings.vala:315
+#: ../src/ui/settings.vala:312
 msgid "Theme:"
 msgstr "Тема:"
 
 #. Autostart checkbox
-#: ../src/ui/settings.vala:320
+#: ../src/ui/settings.vala:317
 msgid "Startup on login"
 msgstr "Стартирай при вход"
 
 #. Notification icon
-#: ../src/ui/settings.vala:326
+#: ../src/ui/settings.vala:323
 msgid "Show notification icon"
 msgstr "Показване на икона в зоната за известяване."
 
-#: ../src/ui/settings.vala:340
+#: ../src/ui/settings.vala:337
 msgid "Shortcuts"
 msgstr "Бързи клавиши"
 
-#: ../src/ui/settings.vala:359
+#: ../src/ui/settings.vala:356
 msgid "Action"
 msgstr "Действие"
 
-#: ../src/ui/settings.vala:392
+#: ../src/ui/settings.vala:389
 msgid "Shortcut"
 msgstr "Бърз клавиш"
 
-#: ../src/ui/settings.vala:411
+#: ../src/ui/settings.vala:408
 msgid "Click the shortcut you wish to change and press the new shortcut."
 msgstr ""
 "Цъкнете на клавишната комбинация ако искате да я смените и въведете нова "
 "такава."
 
-#: ../src/ui/widgets-matchlistview.vala:921
-#: ../src/ui/widgets-matchlistview.vala:935
+#: ../src/ui/widgets-matchlistview.vala:915
+#: ../src/ui/widgets-matchlistview.vala:925
 msgid "No results."
 msgstr "Няма резултати."
 
-#: ../src/ui/widgets-matchlistview.vala:940
+#: ../src/ui/widgets-matchlistview.vala:930
 #, c-format
 msgid "<b>1 of %d</b>"
 msgstr "<b>1 от %d</b>"
@@ -421,7 +421,7 @@ msgstr ""
 
 #: ../src/plugins/chat-actions-plugin.vala:65
 msgid "Send a message"
-msgstr ""
+msgstr "Изпращане на съобщение"
 
 #: ../src/plugins/chat-actions-plugin.vala:66
 msgid "Send a message to the contact"
@@ -429,7 +429,7 @@ msgstr ""
 
 #: ../src/plugins/chat-actions-plugin.vala:99
 msgid "Send message to.."
-msgstr ""
+msgstr "Изпрати съобщение на..."
 
 #: ../src/plugins/chat-actions-plugin.vala:100
 msgid "Send a message to a contact"
@@ -437,7 +437,7 @@ msgstr ""
 
 #: ../src/plugins/chat-actions-plugin.vala:134
 msgid "Chat actions"
-msgstr ""
+msgstr "Чат действия"
 
 #: ../src/plugins/chat-actions-plugin.vala:135
 msgid "Open chat, or send a message with your favorite IM"
@@ -445,15 +445,15 @@ msgstr ""
 
 #: ../src/plugins/chromium-plugin.vala:66
 msgid "Chromium Plugin"
-msgstr ""
+msgstr "Chromium разширение"
 
 #: ../src/plugins/chromium-plugin.vala:67
 msgid "Browse and open Chromium bookmarks."
-msgstr ""
+msgstr "Разглеждане и отваряне на Chromium отметки"
 
 #: ../src/plugins/chromium-plugin.vala:71
 msgid "Chromium is not installed"
-msgstr ""
+msgstr "Chromium браузърът не е инсталиран"
 
 #: ../src/plugins/command-plugin.vala:44
 msgid "Run command"
@@ -480,7 +480,7 @@ msgstr "Отваряне на текущата селекция с %s"
 #: ../src/plugins/desktop-file-plugin.vala:280
 #, c-format
 msgid "Launch action '%s'"
-msgstr ""
+msgstr "Изпълни действие \"%s\""
 
 #: ../src/plugins/devhelp-search.vala:59
 msgid "Search in Devhelp"
@@ -512,7 +512,7 @@ msgstr "Търси дефиниция на думи."
 
 #: ../src/plugins/dictionary.vala:78
 msgid "No compatible Dictionary installed"
-msgstr ""
+msgstr "Няма инсталиран съвместим речник"
 
 #: ../src/plugins/directory-plugin.vala:111
 msgid "Open commonly used directories."
@@ -524,11 +524,11 @@ msgstr ""
 
 #: ../src/plugins/file-op-plugin.vala:41
 msgid "Move to Trash"
-msgstr ""
+msgstr "Преместване в кошчето"
 
 #: ../src/plugins/file-op-plugin.vala:72
 msgid "Rename to"
-msgstr ""
+msgstr "Преименуване на"
 
 #: ../src/plugins/file-op-plugin.vala:73
 msgid "Rename the file to..."
@@ -537,7 +537,7 @@ msgstr ""
 #: ../src/plugins/file-op-plugin.vala:89 ../src/plugins/pidgin-plugin.vala:171
 #, c-format
 msgid "File \"%s\"does not exist."
-msgstr ""
+msgstr "Файлът \"%s\" не съществува."
 
 #: ../src/plugins/file-op-plugin.vala:101
 #, c-format
@@ -546,11 +546,11 @@ msgstr ""
 
 #: ../src/plugins/file-op-plugin.vala:125
 msgid "File Operations"
-msgstr ""
+msgstr "Файлови операции"
 
 #: ../src/plugins/file-op-plugin.vala:126
 msgid "Copy, Cut, Paste and Delete files"
-msgstr ""
+msgstr "Копиране, изрязване, поставяне и изтриване на файлове"
 
 #: ../src/plugins/gnome-bookmarks-plugin.vala:61
 msgid "GNOME Bookmarks Plugin"
@@ -560,27 +560,13 @@ msgstr ""
 msgid "Browse and open GNOME bookmarks."
 msgstr ""
 
-#: ../src/plugins/gnome-screensaver-plugin.vala:51
-msgid "Lock Screen"
-msgstr "Заключване на екрана"
-
-#: ../src/plugins/gnome-screensaver-plugin.vala:52
-msgid "Locks screen and starts screensaver."
-msgstr "Заключва екрана и стартира скрийнсейвъра"
-
-#: ../src/plugins/gnome-screensaver-plugin.vala:80
-msgid "Lock screen of your computer."
-msgstr "Заключва екрана на вашия компютър"
-
-#: ../src/plugins/gnome-screensaver-plugin.vala:84
-msgid "Gnome Screen Saver wasn't found"
-msgstr "Gnome Screen Saver не беше намерено"
-
 #: ../src/plugins/hybrid-search-plugin.vala:62
 msgid ""
 "Improve results returned by the Zeitgeist plugin by looking for similar "
 "files on the filesystem."
 msgstr ""
+"Подобряване на резултатите от Zeitgeist-приставката чрез разглеждане на "
+"подобни файлове на файловата система."
 
 #: ../src/plugins/imgur-plugin.vala:51
 msgid "Upload to imgur"
@@ -590,14 +576,12 @@ msgstr "Качи в imgur"
 msgid "Upload selection to imgur image sharer"
 msgstr "Качи избраното в imgur"
 
-#: ../src/plugins/imgur-plugin.vala:162
-#: ../src/plugins/pastebin-plugin.vala:151
+#: ../src/plugins/imgur-plugin.vala:162 ../src/plugins/pastebin-plugin.vala:151
 msgid ""
 "The selection was successfully uploaded and its URL was copied to clipboard."
 msgstr "Избраното беше качено успешно и URL копиран в буфера."
 
-#: ../src/plugins/imgur-plugin.vala:166
-#: ../src/plugins/pastebin-plugin.vala:155
+#: ../src/plugins/imgur-plugin.vala:166 ../src/plugins/pastebin-plugin.vala:155
 msgid ""
 "An error occurred during upload, please check the log for more information."
 msgstr ""
@@ -691,11 +675,11 @@ msgstr "Търси в интернет"
 #. keep in sync with the internal XMLs!
 #: ../src/plugins/opensearch.vala:266
 msgid "DuckDuckGo"
-msgstr ""
+msgstr "DuckDuckGo"
 
 #: ../src/plugins/opensearch.vala:267
 msgid "Search the web using duckduckgo.com"
-msgstr ""
+msgstr "Търсене в интернет с duckduckgo.com"
 
 #: ../src/plugins/opensearch.vala:268
 msgid "Google"
@@ -712,6 +696,36 @@ msgstr "Google Maps"
 #: ../src/plugins/opensearch.vala:271
 msgid "Search using Google Maps"
 msgstr "Търсене чрез използване на Google Maps"
+
+#: ../src/plugins/pass-plugin.vala:31
+msgid "Copy decrypted PGP password to clipboard"
+msgstr ""
+
+#: ../src/plugins/pass-plugin.vala:56
+#, c-format
+msgid "Copied %s password to clipboard"
+msgstr ""
+
+#: ../src/plugins/pass-plugin.vala:59
+#, c-format
+msgid "Unable to decrypt %s password"
+msgstr ""
+
+#: ../src/plugins/pass-plugin.vala:65
+msgid "Synapse - Pass"
+msgstr ""
+
+#: ../src/plugins/pass-plugin.vala:105
+msgid "Pass Integration"
+msgstr ""
+
+#: ../src/plugins/pass-plugin.vala:106
+msgid "Quickly place passwords from your password store in the clipboard."
+msgstr ""
+
+#: ../src/plugins/pass-plugin.vala:110
+msgid "pass is not installed"
+msgstr ""
 
 #: ../src/plugins/pastebin-plugin.vala:42
 #: ../src/plugins/pastebin-plugin.vala:261
@@ -791,6 +805,22 @@ msgstr "Добавя песента в плейлиста на Rhythmbox"
 msgid "Play in Rhythmbox"
 msgstr "Пусни в Rhtymbox"
 
+#: ../src/plugins/screensaver-plugin.vala:60
+msgid "Lock Screen"
+msgstr "Заключване на екрана"
+
+#: ../src/plugins/screensaver-plugin.vala:61
+msgid "Locks screen and starts screensaver."
+msgstr "Заключва екрана и стартира скрийнсейвъра"
+
+#: ../src/plugins/screensaver-plugin.vala:128
+msgid "Lock screen of your computer."
+msgstr "Заключва екрана на вашия компютър"
+
+#: ../src/plugins/screensaver-plugin.vala:132
+msgid "Screensaver wasn't found"
+msgstr ""
+
 #: ../src/plugins/selection-plugin.vala:55
 msgid "Selection"
 msgstr "Избрано"
@@ -805,7 +835,7 @@ msgid "Selected text"
 msgstr "Избран текст"
 
 #. Plugin title
-#: ../src/plugins/ssh-plugin.vala:67
+#: ../src/plugins/ssh-plugin.vala:65
 msgid "Connect to host with SSH"
 msgstr "Свързване към хост с SSH"
 
@@ -813,11 +843,11 @@ msgstr "Свързване към хост с SSH"
 #. icon name
 #. reference to this function
 #. true if user's system has all required components which the plugin needs
-#: ../src/plugins/ssh-plugin.vala:72
+#: ../src/plugins/ssh-plugin.vala:70
 msgid "ssh is not installed"
 msgstr "ssh не е инсталирано"
 
-#: ../src/plugins/ssh-plugin.vala:190
+#: ../src/plugins/ssh-plugin.vala:188
 msgid "Connect with SSH"
 msgstr "Свързване с SSH"
 
@@ -962,23 +992,23 @@ msgid "Search various items logged by Zeitgeist."
 msgstr "Търсене на елементи записани от Zeitgeist"
 
 #: ../src/plugins/zeitgeist-plugin.vala:200
-#: ../src/plugins/zeitgeist-related.vala:79
+#: ../src/plugins/zeitgeist-related.vala:77
 msgid "Zeitgeist is not installed"
 msgstr "Zeitgeist не е инсталиран"
 
-#: ../src/plugins/zeitgeist-related.vala:64
+#: ../src/plugins/zeitgeist-related.vala:62
 msgid "Find related"
 msgstr ""
 
-#: ../src/plugins/zeitgeist-related.vala:65
+#: ../src/plugins/zeitgeist-related.vala:63
 msgid "Find resources related to this result"
-msgstr ""
+msgstr "Търсене на ресурси, свързани с този резултат"
 
-#: ../src/plugins/zeitgeist-related.vala:74
+#: ../src/plugins/zeitgeist-related.vala:72
 msgid "Related files"
-msgstr ""
+msgstr "Подобни файлове"
 
-#: ../src/plugins/zeitgeist-related.vala:75
+#: ../src/plugins/zeitgeist-related.vala:73
 msgid "Finds files related to other search results using Zeitgeist."
 msgstr ""
 
